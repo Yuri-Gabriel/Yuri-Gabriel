@@ -1,7 +1,6 @@
 ### Olá, me chamo Yuri
 
-- 🔭 Atualmente, faço estagio como auxiliar administrativo
-- 🌱 No momento, estou aprendendo JQuerry
+- 🔭 Já estagiei como auxiliar administrativo na SEMGE
 - 📫 Meu email é: yurigabriel.f1012@gmail.com
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-Gabriel&show_icons=true&theme=transparent)
