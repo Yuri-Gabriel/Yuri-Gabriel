@@ -1,6 +1,6 @@
 ### Olá, me chamo Yuri
 
-- 📫 Meu email é: yurigabriel.f1012@gmail.com
+- 📫 Email para contato: yurigabriel.f1012@gmail.com
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuri-Gabriel&show_icons=true&theme=transparent)
 
@@ -13,15 +13,17 @@
 
 #### Linguagens
 
-![TS](https://shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&labelColor=777BB4&logoColor=FFF)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TS](https://shields.io/badge/TypeScript-007aac?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
 #### FrameWorks
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### Banco de dados
 
